@@ -30,10 +30,11 @@ const body = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Store — Modern Commerce',
-    template: '%s | Store',
+    default: 'Amboras — Everyday Support, Thoughtfully Designed',
+    template: '%s | Amboras',
   },
-  description: 'Discover curated products crafted with care. A modern ecommerce experience.',
+  description:
+    'Premium mobility, safety, and comfort essentials co-designed with occupational therapists — for confident, independent daily life.',
 }
 
 export default function RootLayout({
